@@ -1,4 +1,6 @@
+#include <stdio.h>
 #include <main.h>
+#include <stdlib.h>
 /**
  * main - Prints "_putchar" followed by a new line.
  *
